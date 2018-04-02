@@ -22,7 +22,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        hello.text = "hello this world"
+        hello.text = "hello this world and Thinker"
 
         hello.setTextColor(Color.RED)
 

@@ -35,7 +35,7 @@ class MainActivity : AppCompatActivity() {
         hello.visibility = View.VISIBLE
 
         hello.setOnClickListener {
-            myTextview.text = "麻痹"//在此时初始化
+            myTextview.text = "睡你麻痹"//在此时初始化
             main_linear.addView(myTextview)
         }
 
